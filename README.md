@@ -82,4 +82,4 @@ Ele afirma apenas que **a coexistência de regimes distintos é conceitualmente 
 
 - Projeto: **Exploratório**
 - Natureza: **Toy models conceituais**
-- Compromisso:
+- Compromisso: Clareza conceitual, reprodutibilidade mínima e delimitação explícita do que é e do que não é testado.
